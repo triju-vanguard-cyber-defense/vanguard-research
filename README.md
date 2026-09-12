@@ -7,6 +7,7 @@ Independent, white-hat security auditing and adversarial stress-testing for auto
 | :--- | :--- | :--- | :--- |
 | [**VSA-2026-001**](./advisories/VSA-2026-001.md) | Cascading Delegation Poisoning & Action-Space Overreach | CrewAI / Multi-Agent | **CRITICAL** |
 | [**VSA-2026-002**](./advisories/VSA-2026-002.md) | Heuristic Path-Validation Limitations & Inconsistent Socket Pinning | CrewAI / Tools | **HIGH** |
+| [**VSA-2026-003**](./advisories/VSA-2026-003.md) | Unauthenticated PS1 Completion Marker Injection | OpenHands / Terminal Tool | **MEDIUM** |
 
 ## Core Research Focus
 - **OWASP Top 10 for LLMs**: Prompt injection, system prompt leakage, and excessive agency.
