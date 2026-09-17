@@ -1,0 +1,10 @@
+# Third-party source clones and local test sandboxes — not part of the research repo
+crewAI/
+OpenHands/
+software-agent-sdk/
+openhands-test/
+ssrf-test/
+dify/
+.venv/
+__pycache__/
+*.pyc
