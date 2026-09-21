@@ -5,6 +5,9 @@ software-agent-sdk/
 openhands-test/
 ssrf-test/
 dify/
+ev-28sep/
 .venv/
 __pycache__/
 *.pyc
+
+vcd chat context/
